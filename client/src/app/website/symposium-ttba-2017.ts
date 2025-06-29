@@ -184,8 +184,8 @@ export const ttbaSymposium2017 = {
 				speakersObj['Nicolas Alan Menzies'],
 			],
 			'moderators': [
-				{'name': 'Hsin-Wen (Cindy) Liang', 'link': 'www.linkedin.com/in/hsin-wen-liang'},
-				{'name': 'Chia-Jung Li'}
+				{'name': 'Hsin-Wen (Cindy) Liang', 'link': 'https://www.linkedin.com/in/hsin-wen-liang/'},
+				{'name': 'Chia-Jung Li', 'link':'https://www.linkedin.com/in/chia-jung-li-a453a11a1/'}
 			]
 		}, {
 			'from': new Date('2025/07/12 15:30 EDT'),

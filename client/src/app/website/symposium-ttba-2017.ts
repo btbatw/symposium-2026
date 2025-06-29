@@ -243,6 +243,12 @@ export const ttbaSymposium2017 = {
 				speakersObj['Hsuan-Ping Chang'],
 				speakersObj['Sarah Chen'],
 				speakersObj['Nelson Liu'],
+				speakersObj['Ting-Hui Wu'],
+				speakersObj['Tsyr-Yan Yu'],
+				speakersObj['Amy Hung'],
+				speakersObj['heng-hong Chen'],
+				speakersObj['Jason Lu']
+				
 			],
 			'tags': [],
 			'rooms': []

@@ -111,7 +111,7 @@ export const ttbaSymposium2017 = {
 			'rooms': [],
 			'speakers': [],
 			'moderators': [
-				{'name': 'Yu-Ting Huang', 'link':''},
+				{'name': 'Yu-Ting Huang', 'link': 'https://www.linkedin.com/in/yuthuang/'},
 				{'name': 'Chin-Yen (Jean) Lin', 'link': 'https://www.linkedin.com/in/chin-yen-lin-238698205'}
 			]
 		}, {

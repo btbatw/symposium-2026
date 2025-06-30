@@ -246,9 +246,8 @@ export const ttbaSymposium2017 = {
 				speakersObj['Ting-Hui Wu'],
 				speakersObj['Tsyr-Yan Yu'],
 				speakersObj['Amy Hung'],
-				speakersObj['heng-hong Chen'],
-				speakersObj['Jason Lu']
-				
+				speakersObj['Sheng-hong Chen'],
+				speakersObj['Jason Lu'],
 			],
 			'tags': [],
 			'rooms': []

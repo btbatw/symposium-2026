@@ -61,7 +61,7 @@ Breakfast	Meng-Ju Wu		Assistant Professor, the University of Massachusetts Chan 
 Breakfast 	Tsyr-Yan Yu
 Breakfast 	Amy Hung
 Breakfast 	Jason Lu
-Breakfast 	Ting-Hui Wu
+Breakfast 	Ting-Hui Wu		Vice President of Clinical Development, Mythic Therapeutics		Ting-Hui Wu.jpg		<p>Ting-Hui Wu is currently the Vice President of Clinical Development at Mythic Therapeutics. He leads the global development of MYTX-011, a novel pH-engineered ADC, and contributes to shaping Mythic’s ADC pipeline. Prior to joining Mythic, he led the development of a first-in-class mRNA epigenomic anticancer therapy at Omega Therapeutics. Prior to joining Omega, he served as an Engagement Manager in the Life Science Practice at McKinsey & Company, supporting biotech and pharmaceutical companies on pipeline/asset strategy, business development, and due diligence. Ting holds an M.D. from the National Taiwan University and completed his internal medicine and medical oncology training at the National Taiwan University Hospital. He also received an M.S. in cancer epidemiology from the Johns Hopkins Bloomberg School of Public Health.</p>		https://linkedin.com/in/ting-hui-wu-md-msc-ab535733/
 Breakfast 	Sheng-hong Chen
 `;
 

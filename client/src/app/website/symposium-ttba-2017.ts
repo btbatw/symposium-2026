@@ -431,7 +431,7 @@ export const ttbaSymposium2017 = {
 			{
 				'level': '',
 				'name': 'WW Holding',
-				'logoUrl': 'ww-holding.png',
+				'logoUrl': 'ww-holding_v2.png',
 				'link': 'https://www.ww-holding.com.tw/en/'
 			},
 			{

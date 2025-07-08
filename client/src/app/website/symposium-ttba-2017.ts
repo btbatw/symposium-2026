@@ -506,6 +506,24 @@ export const ttbaSymposium2017 = {
 				'logoUrl': 'TAIWAN_BIO.png',
 				'link': 'https://twbio-thera.com/en'
 			},
+			{
+				'level': 'string',
+				'name': 'Syneos Health',
+				'logoUrl': 'Syneos Health Logo_Conference.jpg',
+				'link': 'https://www.syneoshealth.com/'
+			},
+			{
+				'level': 'string',
+				'name': 'InFocus Therapeutics',
+				'logoUrl': 'InFocus_Original on transparent.png',
+				'link': 'https://infocustx.com/'
+			},
+			{
+				'level': 'string',
+				'name': 'Metals Industry Research and Development Center',
+				'logoUrl': 'MIRDC.jpg',
+				'link': 'https://www.mirdc.org.tw/english/'
+			},
 		]
 	},
 	'imgs': [{

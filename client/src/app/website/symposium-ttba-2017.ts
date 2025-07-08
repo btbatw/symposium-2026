@@ -162,7 +162,7 @@ export const ttbaSymposium2017 = {
 				speakersObj['Sidney Hsieh'],
 				speakersObj['Mong-Hsun Tsai'],
 				speakersObj['Tsyr-Yan Yu'],
-				speakersObj['Su Hao Lo'],
+				speakersObj['Yi-Hsiang Hsu'],
 			],
 		}, {
 			'from': new Date('2025/07/12 15:15 EDT'),

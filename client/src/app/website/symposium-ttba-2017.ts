@@ -16,7 +16,7 @@ export const ttbaSymposium2017 = {
 		'title': '',
 		'showPageLink': false,
 		'registrationLink': 'https://www.tickettailor.com/events/btba/1638644',
-		'programbookLink': ''
+		'programbookLink': 'https://www.canva.com/design/DAGmf-iFt_o/kjI0v-Ie1cd1muu84sopFw/view?utm_content=DAGmf-iFt_o&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hbd48eaa6dd&fbclid=IwY2xjawLaqNtleHRuA2FlbQIxMABicmlkETE4TWdHY0ZlcjI2YzNCYTgwAR6F0BUHvzpxV_uXPR1z_EuUGc5WctgmAymZnOVEBFZLEZqgOpuDFFZyetSLyg_aem_jwx9mveToLbfePaD1GIuwA'
 	},
 	'host': {
 		'name': 'Boston Taiwanese Biotechnology Association',
@@ -493,12 +493,6 @@ export const ttbaSymposium2017 = {
 				'name': 'LPY Law Group',
 				'logoUrl': 'LPY_Law_Group.png',
 				'link': 'https://www.niwus.com/'
-			},
-			{
-				'level': 'string',
-				'name': '99 Ranch Market',
-				'logoUrl': '99 Ranch Market.jpg',
-				'link': 'https://www.99ranch.com/'
 			},
 			{
 				'level': 'string',

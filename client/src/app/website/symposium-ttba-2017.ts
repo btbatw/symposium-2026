@@ -104,11 +104,7 @@ export const ttbaSymposium2017 = {
 			'sessionDescription': '',
 			'tags': [],
 			'rooms': [],
-			'speakers': [],
-			'moderators': [
-				{'name': '', 'link': ''},
-				{'name': '', 'link': ''}
-			],
+			'speakers': []
 		}, {
 			'from': new Date('2026/07/11 12:00 EDT'),
 			'to': new Date('2026/07/11 13:30 EDT'),

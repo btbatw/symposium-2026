@@ -5,18 +5,18 @@ import { commiteesObj } from './commitees-array';
 
 export const ttbaSymposium2017 = {
 	'symposiumInfo': {
-		'name': 'BTBA Symposium 2025',
+		'name': 'BTBA Symposium 2026',
 		'location': 'Virtual',
 		'time': {
-			'from': new Date('2025/07/12'),
-			'to': new Date('2025/07/13')
+			'from': new Date('2026/07/11'),
+			'to': new Date('2026/07/12')
 		},
 		'timeZone': 'America/New_York',
-		'year': '2025',
+		'year': '2026',
 		'title': '',
 		'showPageLink': false,
-		'registrationLink': 'https://www.tickettailor.com/events/btba/1638644',
-		'programbookLink': 'https://www.canva.com/design/DAGmf-iFt_o/kjI0v-Ie1cd1muu84sopFw/view?utm_content=DAGmf-iFt_o&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hbd48eaa6dd&fbclid=IwY2xjawLaqNtleHRuA2FlbQIxMABicmlkETE4TWdHY0ZlcjI2YzNCYTgwAR6F0BUHvzpxV_uXPR1z_EuUGc5WctgmAymZnOVEBFZLEZqgOpuDFFZyetSLyg_aem_jwx9mveToLbfePaD1GIuwA'
+		'registrationLink': 'https://buytickets.at/btba/2137594',
+		'programbookLink': ''
 	},
 	'host': {
 		'name': 'Boston Taiwanese Biotechnology Association',
@@ -28,12 +28,12 @@ export const ttbaSymposium2017 = {
 		'supportLink': 'https://www.btbatw.org/support.html'
 	},
 	'about': {
-		'title': 'BTBA 2025 Annual Symposium',
+		'title': 'BTBA 2026 Annual Symposium',
 		'showPageLink': true,
 		'subjects': [{
 			'title': '',
 			'description': `
-			<p>2025 BTBA 13th Annual Symposium will take place on <b>July 12-13, at Northwest Building, Harvard University, Cambridge, MA. </b> <a href="https://www.btbatw.org/symposium.html" target="_blank" rel="noopener noreferrer">Learn more about our past annual symposia.</a></p>
+			<p>2026 BTBA 14th Annual Symposium will take place on <b>July 11-12, at Northwest Building, Harvard University, Cambridge, MA. </b> <a href="https://www.btbatw.org/symposium.html" target="_blank" rel="noopener noreferrer">Learn more about our past annual symposia.</a></p>
             `
 		}, {
 			'title': 'Registration',
@@ -47,8 +47,8 @@ export const ttbaSymposium2017 = {
 		'title': 'Programme',
 		'showPageLink': true,
 		'schedules': [{
-			'from': new Date('2025/07/12 08:00 EDT'),
-			'to': new Date('2025/07/12 08:45 EDT'),
+			'from': new Date('2026/07/11 08:00 EDT'),
+			'to': new Date('2026/07/11 08:45 EDT'),
 			'title': 'Registration and Poster Setup',
 			'topic': null,
 			'sessionDescription': '',
@@ -56,117 +56,106 @@ export const ttbaSymposium2017 = {
 			'rooms': [],
 			'speakers': []
 		}, {
-			'from': new Date('2025/07/12 08:45 EDT'),
-			'to': new Date('2025/07/12 09:00 EDT'),
+			'from': new Date('2026/07/11 08:45 EDT'),
+			'to': new Date('2026/07/11 09:00 EDT'),
 			'title': 'Opening Remarks',
 			'topic': null,
 			'sessionDescription': '',
 			'tags': [],
 			'rooms': [],
 			'speakers': [
-				speakersObj['Jimmy Luo'],
-				speakersObj['Ginnie Hu'],
+				speakersObj['Yien Liao'],
+				speakersObj['Chih-Hsiang Yang'],
 			],
 		}, {
-			'from': new Date('2025/07/12 09:00 EDT'),
-			'to': new Date('2025/07/12 10:00 EDT'),
-			'title': 'Keynote Speech I: Michael McKenna, Chief Surgical Officer and Co-Founder of Akouos (A subsidiary of Eli Lilly and Company)',
-			'topic': "Gene Therapy for Hearing Loss: From Bench to Bedside",
+			'from': new Date('2026/07/11 09:00 EDT'),
+			'to': new Date('2026/07/11 10:00 EDT'),
+			'title': 'Keynote Speech I: ',
+			'topic': "Strategic decision-making in pharma R&D",
 			'tags': [],
 			'rooms': [],
-			'speakers': [speakersObj['Michael McKenna']],
-			'moderators': [{'name': 'Ting-Wei Liao', 'link': 'https://www.linkedin.com/in/liao-ting-wei/'}]
+			'speakers': [],
+			'moderators': [{'name': '', 'link': ''}]
 		}, {
-			'from': new Date('2025/07/12 10:00 EDT'),
-			'to': new Date('2025/07/12 10:20 EDT'),
+			'from': new Date('2026/07/11 10:00 EDT'),
+			'to': new Date('2026/07/11 10:30 EDT'),
 			'title': 'Group Photo and Coffee Break',
 			'tags': [],
 			'rooms': [],
 			'speakers': []
 		}, {
-			'from': new Date('2025/07/12 10:20 EDT'),
-			'to': new Date('2025/07/12 11:50 EDT'),
+			'from': new Date('2026/07/11 10:30 EDT'),
+			'to': new Date('2026/07/11 11:50 EDT'),
 			'title': 'Trending Topic',
-			'topic': 'AI-Powered Breakthroughs: Revolutionizing Drug Discovery, Genomics, and Biotech Innovation',
+			'topic': 'Frontiers in Functional Genomics: Bridging Discovery and Platform Innovation',
 			'sessionDescription': '',
 			'tags': [],
 			'rooms': [],
-			'speakers': [
-				speakersObj['Wei-Hung Weng'],
-				speakersObj['Jeffrey Ruffolo'],
-				speakersObj['Chong Duan'],
-				speakersObj['Dirk Tomandl'],
-			],
+			'speakers': [],
 			'moderators': [
-				{'name': 'Ju-Chun (Ivy) Huang', 'link': 'https://www.linkedin.com/in/ju-chun-huang/'},
-				{'name': 'Yi-Lun (Olivia) Tsai', 'link': 'https://www.linkedin.com/in/yi-lun-tsai-653320298/'}
+				{'name': '', 'link': ''},
+				{'name': '', 'link': ''}
 			],
 		}, {
-			'from': new Date('2025/07/12 12:00 EDT'),
-			'to': new Date('2025/07/12 12:45 EDT'),
-			'title': 'Oral Presentation from Best Poster Award',
-			'topic': null,
-			'sessionDescription': '',
-			'tags': [],
-			'rooms': [],
-			'speakers': [
-				speakersObj['Hawa Dembele'],
-				speakersObj['Yu-Ju Chen'],
-				speakersObj['Yu-Wen Jan'],
-			],
-			'moderators': [
-				{'name': 'Yu-Ting Huang', 'link': 'https://www.linkedin.com/in/yuthuang/'},
-				{'name': 'Chin-Yen (Jean) Lin', 'link': 'https://www.linkedin.com/in/chin-yen-lin-238698205'}
-			]
-		}, {
-			'from': new Date('2025/07/12 12:45 EDT'),
-			'to': new Date('2025/07/12 13:00 EDT'),
+			'from': new Date('2026/07/11 11:50 EDT'),
+			'to': new Date('2026/07/11 12:00 EDT'),
 			'title': 'Mentor Appreciation Ceremony',
 			'topic': null,
 			'sessionDescription': '',
 			'tags': [],
 			'rooms': [],
-			'speakers': []
-		}, {
-			'from': new Date('2025/07/12 13:00 EDT'),
-			'to': new Date('2025/07/12 13:45 EDT'),
-			'title': 'Lunch',
-			'topic': null,
-			'sessionDescription': '',
-			'tags': [],
-			'rooms': [],
-			'speakers': []
-		}, {
-			'from': new Date('2025/07/12 13:45 EDT'),
-			'to': new Date('2025/07/12 15:15 EDT'),
-			'title': 'Career Development Roundtable',
-			'topic': null,
-			'sessionDescription': '',
-			'tags': [],
-			'rooms': [],
-			'speakers': [
-				speakersObj['Hong-Ren Wang'],
-				speakersObj['Lewis Lau'],
-				speakersObj['Carolyn Hsu'],
-				speakersObj['Ying-Ja Chen'],
-				speakersObj['Yan-Jhu Su'],
-				speakersObj['Ting-Wei Liao'],
-				speakersObj['Pei-Jung Wu'],
-				speakersObj['George Chan'],
-				speakersObj['Jerry Lin'],
-				speakersObj['Liang-Yuan Chiu'],
-				speakersObj['Cheng-Yi Chen'],
-				speakersObj['Shang-Chuen Wu'],
-				speakersObj['Danny Chou'],
-				speakersObj['Zoey Chou'],
-				speakersObj['Sidney Hsieh'],
-				speakersObj['Mong-Hsun Tsai'],
-				speakersObj['Tsyr-Yan Yu'],
-				speakersObj['Yi-Hsiang Hsu'],
+			'speakers': [],
+			'moderators': [
+				{'name': '', 'link': ''},
+				{'name': '', 'link': ''}
 			],
 		}, {
-			'from': new Date('2025/07/12 15:15 EDT'),
-			'to': new Date('2025/07/12 15:30 EDT'),
+			'from': new Date('2026/07/11 12:00 EDT'),
+			'to': new Date('2026/07/11 13:30 EDT'),
+			'title': 'Lunch with Roundtable',
+			'topic': null,
+			'sessionDescription': '',
+			'tags': [],
+			'rooms': [],
+			'speakers': []
+		}, {
+			'from': new Date('2026/07/11 13:30 EDT'),
+			'to': new Date('2026/07/11 14:00 EDT'),
+			'title': 'Best Poster Oral Presentation',
+			'topic': null,
+			'sessionDescription': '',
+			'tags': [],
+			'rooms': [],
+			'speakers': []
+		}, {
+			'from': new Date('2026/07/11 14:00 EDT'),
+			'to': new Date('2026/07/11 15:00 EDT'),
+			'numOfParallelSessions': 2,
+			'title': 'Panel 1',
+			'topic': 'Translating Rare Disease Genomics into Precision Therapies',
+			'tags': [],
+			'rooms': [],
+			'speakers': [],
+			'moderators': [
+				{'name': '', 'link': ''},
+				{'name': '', 'link': ''}
+			]
+		}, {
+			'from': new Date('2026/07/11 14:00 EDT'),
+			'to': new Date('2026/07/11 15:00 EDT'),
+			'numOfParallelSessions': 2,
+			'title': 'Panel 2',
+			'topic': "Gene Therapy Delivery: LNP, ANP, and Beyond",
+			'tags': [],
+			'rooms': [],
+			'speakers': [],
+			'moderators': [
+				{'name': '', 'link': ''},
+				{'name': '', 'link': ''}
+			]
+		}, {
+			'from': new Date('2026/07/11 15:00 EDT'),
+			'to': new Date('2026/07/11 15:30 EDT'),
 			'title': 'Coffee Break',
 			'topic': null,
 			'sessionDescription': '',
@@ -174,154 +163,80 @@ export const ttbaSymposium2017 = {
 			'rooms': [],
 			'speakers': []
 		}, {
-			'from': new Date('2025/07/12 15:30 EDT'),
-			'to': new Date('2025/07/12 17:00 EDT'),
-			'numOfParallelSessions': 2,
-			'title': 'Panel 1',
-			'topic': 'Battling the Invisible Foe: Infectious Diseases, Global Threats, and Next-Gen Therapeutics',
+			'from': new Date('2026/07/11 15:30 EDT'),
+			'to': new Date('2026/07/11 17:00 EDT'),
+			'title': 'Trending Topic',
+			'topic': 'Al in healthcare: Opportunities and Regulatory Considerations',
+			'sessionDescription': '',
 			'tags': [],
 			'rooms': [],
-			'speakers': [
-				speakersObj['Dan H Barouch'],
-				speakersObj['Wilfredo F. Garcia-Beltran'],
-				speakersObj['Anne Wyllie'],
-				speakersObj['Nicolas Alan Menzies'],
-			],
-			'moderators': [
-				{'name': 'Hsin-Wen (Cindy) Liang', 'link': 'https://www.linkedin.com/in/hsin-wen-liang/'},
-				{'name': 'Chia-Jung Li', 'link':'https://www.linkedin.com/in/chia-jung-li-a453a11a1/'}
-			]
+			'speakers': []
 		}, {
-			'from': new Date('2025/07/12 15:30 EDT'),
-			'to': new Date('2025/07/12 17:00 EDT'),
-			'numOfParallelSessions': 2,
-			'title': 'Panel 2',
-			'topic': "Tailoring Tomorrow's Treatments: Advances and Challenges in Personalized Medicine",
-			'tags': [],
-			'rooms': [],
-			'speakers': [
-				speakersObj['Pei-Ken Hsu'],
-				speakersObj['Liang-Bo Wang'],
-				speakersObj['Alan Gilbert']
-			],
-			'moderators': [
-				{'name': 'Ping-Wei Chen', 'link': 'https://www.linkedin.com/in/ping-wei-chen-b0ba78a6/'},
-				{'name': 'Yen-Ting Kuang', 'link': 'https://www.linkedin.com/in/yentingkuang/'}
-			]
-		}, {
-			'from': new Date('2025/07/12 17:00 EDT'),
-			'to': new Date('2025/07/12 18:00 EDT'),
+			'from': new Date('2026/07/11 17:00 EDT'),
+			'to': new Date('2026/07/11 19:00 EDT'),
 			'title': 'Poster Session',
-			'topic': null,
 			'sessionDescription': '',
 			'tags': [],
 			'rooms': [],
 			'speakers': []
 		}, {
-			'from': new Date('2025/07/12 18:00 EDT'),
-			'to': new Date('2025/07/12 20:00 EDT'),
-			'title': 'Networking Dinner',
+			'from': new Date('2026/07/11 18:00 EDT'),
+			'to': new Date('2026/07/11 20:00 EDT'),
+			'title': 'Light Dinner',
 			'sessionDescription': '',
 			'tags': [],
 			'rooms': [],
 			'speakers': []
 		}, {
-			'from': new Date('2025/07/13 08:00 EDT'),
-			'to': new Date('2025/07/13 09:00 EDT'),
+			'from': new Date('2026/07/12 08:00 EDT'),
+			'to': new Date('2026/07/12 09:20 EDT'),
 			'title': 'Breakfast and Meeting with Experts',
 			'topic': null,
 			'sessionDescription': ``,
-			'speakers': [
-				speakersObj['Liang-Hui Chu'],
-				speakersObj['Vincent Tseng'],
-				speakersObj['Hao-Wei Su'],
-				speakersObj['Gerogia Lin'],
-				speakersObj['Shih-Ying Wu'],
-				speakersObj['Jessica Huang'],
-				speakersObj['Jennifer Lu'],
-				speakersObj['Ho-Chou Tu'],
-				speakersObj['Ming-Ju Tsai'],
-				speakersObj['Kai-Chih Huang'],
-				speakersObj['Meng-Ju Wu'],
-				speakersObj['Shang-Chuen Wu'],
-				speakersObj['Hsuan-Ping Chang'],
-				speakersObj['Sarah Chen'],
-				speakersObj['Nelson Liu'],
-				speakersObj['Ting-Hui Wu'],
-				speakersObj['Tsyr-Yan Yu'],
-				speakersObj['Amy Hung'],
-				speakersObj['Sheng-hong Chen'],
-				speakersObj['Jason Lu'],
-			],
+			'speakers': [],
 			'tags': [],
 			'rooms': []
 		}, {
-			'from': new Date('2025/07/13 09:00 EDT'),
-			'to': new Date('2025/07/13 10:00 EDT'),
-			'title': 'Keynote Speech II: Kornelia Polyak, Professor at Dana-Farber Cancer Institute and Harvard Medical School',
-			'topic': 'Breast Tumor Evolution',
+			'from': new Date('2026/07/12 09:30 EDT'),
+			'to': new Date('2026/07/12 10:30 EDT'),
+			'title': 'Keynote Speech II',
+			'topic': 'The Discovery of Immune checkpoints: from Basic Immunology to Cancer Therapy',
 			'tags': [],
 			'rooms': [],
-			'speakers': [speakersObj['Kornelia Polyak']],
-			'moderators': [{'name': 'Chun-Chen Yao', 'link': 'https://www.linkedin.com/in/chun-chen-yao-028944123/'}]
+			'speakers': [],
+			'moderators': [{'name': '', 'link': ''}]
 		}, {
-			'from': new Date('2025/07/13 10:00 EDT'),
-			'to': new Date('2025/07/13 10:40 EDT'),
-			'title': 'Special Talk: Danny Hung-Chieh Chou, Associate Professor at Stanford University',
-			'topic': 'The Path to Tenured Faculty at a Top University',
-			'tags': [],
-			'rooms': [],
-			'speakers': [speakersObj['Danny Chou']],
-			'moderators': [{'name': 'Yi-Yun Ho', 'link': 'https://www.linkedin.com/in/yi-yun-ho-476b995b/'}]
-		}, {
-			'from': new Date('2025/07/13 10:40 EDT'),
-			'to': new Date('2025/07/13 11:00 EDT'),
+			'from': new Date('2026/07/12 10:30 EDT'),
+			'to': new Date('2026/07/12 11:00 EDT'),
 			'title': 'Coffee Break',
-			'topic': null,
-			'sessionDescription': '',
 			'tags': [],
 			'rooms': [],
 			'speakers': []
 		}, {
-			'from': new Date('2025/07/13 11:00 EDT'),
-			'to': new Date('2025/07/13 12:30 EDT'),
+			'from': new Date('2026/07/12 11:00 EDT'),
+			'to': new Date('2026/07/12 12:00 EDT'),
 			'title': 'Panel 3',
-			'topic': 'Decoding Aging: Mechanisms, Diseases, and the Future of Longevity',
+			'topic': 'Beyond Small Molecules: The Rise of Novel Therapeutic Modalities',
 			'numOfParallelSessions': 2,
 			'sessionDescription': ``,
 			'tags': [],
 			'rooms': [],
-			'speakers': [
-				speakersObj['Sheng-hong Chen'],
-				speakersObj['Kejun (Albert) Ying'],
-				speakersObj['Raghav Sehgal'],
-				speakersObj['Stan Wang'],
-			],
-			'moderators': [
-				{'name': 'Jerry Lin', 'link': 'https://www.linkedin.com/in/chih-chung-jerry-lin-680b48113/'},
-				{'name': 'Michael Sun', 'link': 'www.linkedin.com/in/michael-a-sun'}]
+			'speakers': [],
+			'moderators': [{'name': '', 'link': ''}]
 		}, {
-			'from': new Date('2025/07/13 11:00 EDT'),
-			'to': new Date('2025/07/13 12:30 EDT'),
+			'from': new Date('2026/07/12 11:00 EDT'),
+			'to': new Date('2026/07/12 12:00 EDT'),
 			'title': 'Panel 4',
-			'topic': "Consultants: The Unsung heroes of Biotech and Pharma Companies' Success",
+			'topic': "Synthetic Biology and Biotechnology Beyond Medicine",
 			'numOfParallelSessions': 2,
 			'sessionDescription': ``,
 			'tags': [],
 			'rooms': [],
-			'speakers': [
-				speakersObj['Ting-Hui Wu'],
-				speakersObj['Ariel Yeh'],
-				speakersObj['Li-Chun Wang'],
-				speakersObj['Amy Shyu'],
-			],
-			'moderators': [
-				{'name': 'Chun-Tien (Jimmy) Kuo', 'link': 'https://www.linkedin.com/in/chuntien-jimmy-kuo/'},
-				{'name': 'Shu-Yu Hsu', 'link': 'https://www.linkedin.com/in/shuyu-hsu/'}
-			]
+			'speakers': [],
+			'moderators': [{'name': '', 'link': ''}]
 		}, {
-			'from': new Date('2025/07/13 12:30 EDT'),
-			'to': new Date('2025/07/13 12:50 EDT'),
+			'from': new Date('2026/07/12 12:10 EDT'),
+			'to': new Date('2026/07/12 12:30 EDT'),
 			'title': 'Closing Remarks & Award Ceremony',
 			'topic': null,
 			'sessionDescription': '',
@@ -334,7 +249,7 @@ export const ttbaSymposium2017 = {
 		'title': 'Call for Submissions',
 		'showPageLink': true,
 		'text': '',
-		'link': 'https://forms.gle/vbo2mWdXSAeYAVMg7'
+		'link': 'https://docs.google.com/forms/d/e/1FAIpQLSddceAFwPhM2QJA7nlE9Z6XIXj0wgsUIqObpWb4wIVsGi_Wag/viewform?fbclid=IwY2xjawQ6rGxleHRuA2FlbQIxMABicmlkETE4N2puY0tTT0dTeXhOTXRFc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHoAMB2HlphkgBijx_TNF3-r2QrqwqwerLDe0yB3Dn4Qd5W366L-xMMzapr2M_aem_sTpEsGpbOnlzU-LImiPUOQ'
 	},
 	'location': {
 		'title': 'Location',

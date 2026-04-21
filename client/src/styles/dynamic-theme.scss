@@ -49,7 +49,7 @@ $bodyBgColor: #f1f0eb;
 	.header-theme {
 		@include mat-button-theme(mat-light-theme($themeing-white, $themeing-light-blue-dark));
 		// background-color: rgba(mat-color(map-get($amber-blue-theme, primary)), 0.5);
-		background-color: #C5CAE9;
+		background-color: #517fba;
 	}
 }
 .white-light-blue-theme {

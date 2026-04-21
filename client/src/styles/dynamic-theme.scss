@@ -28,7 +28,7 @@ $bodyBgColor: #f1f0eb;
 		color: $textColor;
 	}
 	&.text-color-of-theme-header, .text-color-of-theme-header {
-		color: #ffffff;
+		color: $textColor;
 	}
 	.border-color-of-theme {
 		border-color: rgba(mat-color(map-get($amber-blue-theme, primary)), 1);
@@ -49,6 +49,7 @@ $bodyBgColor: #f1f0eb;
 	.header-theme {
 		@include mat-button-theme(mat-light-theme($themeing-white, $themeing-light-blue-dark));
 		// background-color: rgba(mat-color(map-get($amber-blue-theme, primary)), 0.5);
+		color: #ffffff;
 		background-color: #517fba;
 	}
 }

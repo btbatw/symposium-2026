@@ -86,10 +86,6 @@ $bodyBgColor: #f1f0eb;
 	.header-theme {
 		background-color: rgba(mat-color(map-get($white-light-blue-theme, primary), 900), 1);
 		@include mat-button-theme(mat-light-theme($themeing-white, $themeing-light-blue));
-
-		  button {
-          color: #ffffff !important;
-          }
 	}
 }
 

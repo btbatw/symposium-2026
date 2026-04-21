@@ -51,8 +51,10 @@ $bodyBgColor: #f1f0eb;
 		// background-color: rgba(mat-color(map-get($amber-blue-theme, primary)), 0.5);
 		background-color: #517fba;
 	    
-		button {
-          color: #ffffff !important;
+		  button.mat-button,
+          button.mat-fab,
+          button.mat-icon-button {
+          color: #ffffff;
           }
 	}
 }

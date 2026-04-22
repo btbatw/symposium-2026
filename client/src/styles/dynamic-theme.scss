@@ -51,11 +51,12 @@ $bodyBgColor: #f1f0eb;
 		// background-color: rgba(mat-color(map-get($amber-blue-theme, primary)), 0.5);
 		background-color: #517fba;
 	    
-		  button.mat-button,
-          button.mat-fab,
-          button.mat-icon-button {
-          color: #ffffff;
-          }
+        // 👉 override button text color
+      .mat-button,
+      .mat-raised-button,
+      .mat-fab {
+        color: #ffffff;
+       }
 	}
 }
 .white-light-blue-theme {

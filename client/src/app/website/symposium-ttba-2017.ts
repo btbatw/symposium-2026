@@ -66,16 +66,18 @@ export const ttbaSymposium2017 = {
 			'speakers': [
 				speakersObj['Yien Liao'],
 				speakersObj['Chih-Hsiang Yang'],
-			],
+			]
 		}, {
 			'from': new Date('2026/07/11 09:00 EDT'),
 			'to': new Date('2026/07/11 10:00 EDT'),
-			'title': 'Keynote Speech I: ',
-			'topic': "Strategic decision-making in pharma R&D",
+			'title': 'Keynote Speech I: Stephen Cho, SVP of Global Portfolio & Program Management at BeOne Medicines',
+			'topic': "From Scientist to Strategic Leader in Biopharma",
 			'tags': [],
 			'rooms': [],
-			'speakers': [],
-			'moderators': [{'name': '', 'link': ''}]
+			'speakers': [
+				speakersObj['Stephen Cho'],
+			],
+			'moderators': [{'name': 'Jami Kuo', 'link': 'https://www.linkedin.com/in/jamikuo/'}]
 		}, {
 			'from': new Date('2026/07/11 10:00 EDT'),
 			'to': new Date('2026/07/11 10:30 EDT'),
@@ -87,14 +89,18 @@ export const ttbaSymposium2017 = {
 			'from': new Date('2026/07/11 10:30 EDT'),
 			'to': new Date('2026/07/11 11:50 EDT'),
 			'title': 'Trending Topic',
-			'topic': 'Frontiers in Functional Genomics: Bridging Discovery and Platform Innovation',
+			'topic': 'Spatial Proteomics & AI',
 			'sessionDescription': '',
 			'tags': [],
 			'rooms': [],
-			'speakers': [],
+			'speakers': [
+				speakersObj['Jia-Ren (Jerry) Lin'],
+				speakersObj['Ben Glass'],
+				speakersObj['Jiang He'],
+			],
 			'moderators': [
 				{'name': '', 'link': ''},
-				{'name': '', 'link': ''}
+				//{'name': '', 'link': ''}
 			],
 		}, {
 			'from': new Date('2026/07/11 11:50 EDT'),
@@ -131,10 +137,14 @@ export const ttbaSymposium2017 = {
 			'topic': 'Translating Rare Disease Genomics into Precision Therapies',
 			'tags': [],
 			'rooms': [],
-			'speakers': [],
+			'speakers': [
+				speakersObj['Timothy Yu'],
+				speakersObj['Courtney Shearer'],
+				speakersObj['Kristina Capiak'],
+			],
 			'moderators': [
 				{'name': '', 'link': ''},
-				{'name': '', 'link': ''}
+				//{'name': '', 'link': ''}
 			]
 		}, {
 			'from': new Date('2026/07/11 14:00 EDT'),
@@ -144,10 +154,13 @@ export const ttbaSymposium2017 = {
 			'topic': "Gene Therapy Delivery: LNP, ANP, and Beyond",
 			'tags': [],
 			'rooms': [],
-			'speakers': [],
+			'speakers': [
+				speakersObj['Jin Qiu'],
+				speakersObj['Jilong Li'],
+			],
 			'moderators': [
 				{'name': '', 'link': ''},
-				{'name': '', 'link': ''}
+				//{'name': '', 'link': ''}
 			]
 		}, {
 			'from': new Date('2026/07/11 15:00 EDT'),
@@ -166,7 +179,11 @@ export const ttbaSymposium2017 = {
 			'sessionDescription': '',
 			'tags': [],
 			'rooms': [],
-			'speakers': []
+			'speakers': [
+				speakersObj['Richard Liang'],
+				speakersObj['Yi-Han Sheu'],
+				speakersObj['Jun Deng'],
+			],
 		}, {
 			'from': new Date('2026/07/11 17:00 EDT'),
 			'to': new Date('2026/07/11 19:00 EDT'),
@@ -195,12 +212,14 @@ export const ttbaSymposium2017 = {
 		}, {
 			'from': new Date('2026/07/12 09:30 EDT'),
 			'to': new Date('2026/07/12 10:30 EDT'),
-			'title': 'Keynote Speech II',
-			'topic': 'The Discovery of Immune checkpoints: from Basic Immunology to Cancer Therapy',
+			'title': 'Keynote Speech II: Arlene Sharpe, Chair of the Department of Immunology at Harvard Medical School',
+			'topic': 'TBD',
 			'tags': [],
 			'rooms': [],
-			'speakers': [],
-			'moderators': [{'name': '', 'link': ''}]
+			'speakers': [
+				speakersObj['Arlene Sharpe'],
+			],
+			'moderators': [{'name': 'Ting-Wei Liao', 'link': 'https://www.linkedin.com/in/liao-ting-wei/'}]
 		}, {
 			'from': new Date('2026/07/12 10:30 EDT'),
 			'to': new Date('2026/07/12 11:00 EDT'),
@@ -217,7 +236,10 @@ export const ttbaSymposium2017 = {
 			'sessionDescription': ``,
 			'tags': [],
 			'rooms': [],
-			'speakers': [],
+			'speakers': [
+				speakersObj['David Bryson'],
+				speakersObj['Ho-Chou Tu'],
+			],
 			'moderators': [{'name': '', 'link': ''}]
 		}, {
 			'from': new Date('2026/07/12 11:00 EDT'),

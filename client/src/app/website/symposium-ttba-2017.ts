@@ -33,7 +33,7 @@ export const ttbaSymposium2017 = {
 		'subjects': [{
 			'title': '',
 			'description': `
-			<p>2026 BTBA 14th Annual Symposium will take place on <b>July 11-12, at Northwest Building, Harvard University, Cambridge, MA. </b> <a href="https://www.btbatw.org/symposium.html" target="_blank" rel="noopener noreferrer">Learn more about our past annual symposia.</a></p>
+			<p>2026 BTBA 14th Annual Symposium will take place on <b>July 11-12, at Harvard University, Cambridge, MA. </b> <a href="https://www.btbatw.org/symposium.html" target="_blank" rel="noopener noreferrer">Learn more about our past annual symposia.</a></p>
             `
 		}, {
 			'title': 'Registration',
@@ -273,8 +273,10 @@ export const ttbaSymposium2017 = {
 		'title': 'Location',
 		'showPageLink': true,
 		'text': 'Venue',
-		'address': 'Harvard Northwest Building <br/>52 Oxford St, Cambridge, MA 02138',
-		'googleMapLink': 'https://www.google.com/maps/place/Northwest+Building/@42.3801535,-71.1152319,15z/data=!4m6!3m5!1s0x89e37740b5a8044b:0x439e0d320f628161!8m2!3d42.3801535!4d-71.1152319!16s%2Fg%2F11clvx3pq2?entry=ttu',
+		'address': '', 
+			//'Harvard Northwest Building <br/>52 Oxford St, Cambridge, MA 02138',
+		'googleMapLink': '',
+			//'https://www.google.com/maps/place/Northwest+Building/@42.3801535,-71.1152319,15z/data=!4m6!3m5!1s0x89e37740b5a8044b:0x439e0d320f628161!8m2!3d42.3801535!4d-71.1152319!16s%2Fg%2F11clvx3pq2?entry=ttu',
 		'directions': [{
 			'method': 'Parking',
 			'lots': [{

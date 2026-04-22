@@ -11,7 +11,7 @@ import 'rxjs/add/observable/of';
 export class WebsiteSponsorComponent {
 	@Input() symposium;
 	displayedColumns = ['', ...sponsorTypes.map(el => el.title)];
-	referenceColumns = ['name', '0', '1', '2', '3', '4'];
+	referenceColumns = ['name', '0', '1', '2', '3', '4', '5'];
 	sponsorTabledataSource = new SponsorTableDataSource();
 	packageImgs = [
 		'Sponsorship_Packages.png'
@@ -161,7 +161,7 @@ const sponsorTypes = [
 const data = sponsorBenefits.map((el, idx) => {
 	return {
 		...{name: el},
-		...Array(5)
+		...Array(6)
 			.fill(0)
 			.map((_, innerIdx) => sponsorTypes[innerIdx].benefits[idx])
 	}

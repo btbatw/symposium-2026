@@ -115,8 +115,8 @@ const sponsorTypes = [
 			'',
 			'',
 			'',
-			'✅',
 			'',
+			'✅',
 			'✅',
 			'✅',
 			'✅',
@@ -126,6 +126,22 @@ const sponsorTypes = [
 	},
 	{
 		title: 'Silver\n$1,000',
+		benefits: [
+			'',
+			'',
+			'',
+			'',
+			'',
+			'',
+			'',
+			'✅',
+			'✅',
+			'✅',
+			'1'
+		]
+	},
+    {
+		title: 'Bronze\n$500',
 		benefits: [
 			'',
 			'',

@@ -2,7 +2,6 @@ import { speakersObj } from './speakers-obj';
 import { commiteesArray } from './commitees-array';
 import { commiteesObj } from './commitees-array';
 
-
 export const ttbaSymposium2017 = {
 	'symposiumInfo': {
 		'name': 'BTBA Symposium 2026',
@@ -64,7 +63,7 @@ export const ttbaSymposium2017 = {
 			'tags': [],
 			'rooms': [],
 			'speakers': [
-				speakersObj['Yien Liao'],
+				speakersObj['Yi-En Liao'],
 				speakersObj['Chih-Hsiang Yang'],
 			]
 		}, {
@@ -74,9 +73,7 @@ export const ttbaSymposium2017 = {
 			'topic': "From Scientist to Strategic Leader in Biopharma",
 			'tags': [],
 			'rooms': [],
-			'speakers': [
-				speakersObj['Stephen Cho'],
-			],
+			'speakers': [speakersObj['Stephen Cho']],
 			'moderators': [{'name': 'Jami Kuo', 'link': 'https://www.linkedin.com/in/jamikuo/'}]
 		}, {
 			'from': new Date('2026/07/11 10:00 EDT'),
@@ -100,7 +97,7 @@ export const ttbaSymposium2017 = {
 			],
 			'moderators': [
 				{'name': '', 'link': ''},
-				//{'name': '', 'link': ''}
+				{'name': '', 'link': ''}
 			],
 		}, {
 			'from': new Date('2026/07/11 11:50 EDT'),
@@ -144,14 +141,14 @@ export const ttbaSymposium2017 = {
 			],
 			'moderators': [
 				{'name': '', 'link': ''},
-				//{'name': '', 'link': ''}
+				{'name': '', 'link':''}
 			]
 		}, {
 			'from': new Date('2026/07/11 14:00 EDT'),
 			'to': new Date('2026/07/11 15:00 EDT'),
 			'numOfParallelSessions': 2,
 			'title': 'Panel 2',
-			'topic': "Gene Therapy Delivery: LNP, ANP, and Beyond",
+			'topic': 'Gene Therapy Delivery: LNP, ANP, and Beyond',
 			'tags': [],
 			'rooms': [],
 			'speakers': [
@@ -160,7 +157,7 @@ export const ttbaSymposium2017 = {
 			],
 			'moderators': [
 				{'name': '', 'link': ''},
-				//{'name': '', 'link': ''}
+				{'name': '', 'link': ''}
 			]
 		}, {
 			'from': new Date('2026/07/11 15:00 EDT'),
@@ -183,11 +180,12 @@ export const ttbaSymposium2017 = {
 				speakersObj['Richard Liang'],
 				speakersObj['Yi-Han Sheu'],
 				speakersObj['Jun Deng'],
-			],
+			]
 		}, {
 			'from': new Date('2026/07/11 17:00 EDT'),
 			'to': new Date('2026/07/11 19:00 EDT'),
 			'title': 'Poster Session',
+			'topic': null,
 			'sessionDescription': '',
 			'tags': [],
 			'rooms': [],
@@ -216,9 +214,7 @@ export const ttbaSymposium2017 = {
 			'topic': 'TBD',
 			'tags': [],
 			'rooms': [],
-			'speakers': [
-				speakersObj['Arlene Sharpe'],
-			],
+			'speakers': [speakersObj['Arlene Sharpe']],
 			'moderators': [{'name': 'Ting-Wei Liao', 'link': 'https://www.linkedin.com/in/liao-ting-wei/'}]
 		}, {
 			'from': new Date('2026/07/12 10:30 EDT'),
@@ -273,10 +269,8 @@ export const ttbaSymposium2017 = {
 		'title': 'Location',
 		'showPageLink': true,
 		'text': 'Venue',
-		'address': '', 
-			//'Harvard Northwest Building <br/>52 Oxford St, Cambridge, MA 02138',
-		'googleMapLink': '',
-			//'https://www.google.com/maps/place/Northwest+Building/@42.3801535,-71.1152319,15z/data=!4m6!3m5!1s0x89e37740b5a8044b:0x439e0d320f628161!8m2!3d42.3801535!4d-71.1152319!16s%2Fg%2F11clvx3pq2?entry=ttu',
+		'address': 'Harvard Northwest Building <br/>52 Oxford St, Cambridge, MA 02138', 
+		'googleMapLink': 'https://www.google.com/maps/place/Northwest+Building/@42.3801535,-71.1152319,15z/data=!4m6!3m5!1s0x89e37740b5a8044b:0x439e0d320f628161!8m2!3d42.3801535!4d-71.1152319!16s%2Fg%2F11clvx3pq2?entry=ttu',
 		'directions': [{
 			'method': 'Parking',
 			'lots': [{

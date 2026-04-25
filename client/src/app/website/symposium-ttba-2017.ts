@@ -269,8 +269,8 @@ export const ttbaSymposium2017 = {
 		'title': 'Location',
 		'showPageLink': true,
 		'text': 'Venue',
-		'address': 'Harvard Northwest Building <br/>52 Oxford St, Cambridge, MA 02138', 
-		'googleMapLink': 'https://www.google.com/maps/place/Northwest+Building/@42.3801535,-71.1152319,15z/data=!4m6!3m5!1s0x89e37740b5a8044b:0x439e0d320f628161!8m2!3d42.3801535!4d-71.1152319!16s%2Fg%2F11clvx3pq2?entry=ttu',
+		'address': '', 
+		'googleMapLink': '',
 		'directions': [{
 			'method': 'Parking',
 			'lots': [{

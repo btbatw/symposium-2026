@@ -31,7 +31,7 @@
 			(click)="goToLink(symposium.host.supportLink)">{{ 'support ' + symposium.host.nameShort | uppercase }}</button>
 	</div>
 
-	<h3 class="mat-headline">Our sponsors</h3>
+	<h3 class="mat-headline">Our 2025 sponsors (2026 sponsors coming soon)</h3>
 	<div fxLayout fxLayoutWrap fxLayoutAlign="space-around center" class="container-sponsor-imgs">
 		<div *ngFor="let sponsor of symposium.sponsor.sponsors" fxFlex.xs="50" fxFlex="33%"
 			(click)="goToLink(sponsor.link)" class="clickable">

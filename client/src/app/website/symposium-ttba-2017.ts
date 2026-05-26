@@ -113,13 +113,7 @@ export const ttbaSymposium2017 = {
 			'to': new Date('2026/07/11 13:30 EDT'),
 			'title': 'Lunch with Roundtable',
 			'topic': null,
-			'sessionDescription': '1. Job hunting and interview\
-									2. Resume Tune-Up Clinic\
-									3. From Uncertainty to Opportunity: The Mindset for Career Transition\
-									4. Build Your First AI Agent Workflow\
-									5. Bridge the Gap: Communication Skills in Academia and Industry\
-									6. CMC\
-									7. Taiwan Academia: Current Landscape and Future Directions',
+			'sessionDescription': '',
 			'tags': [],
 			'rooms': [],
 			'speakers': []
@@ -217,7 +211,7 @@ export const ttbaSymposium2017 = {
 			'from': new Date('2026/07/12 09:30 EDT'),
 			'to': new Date('2026/07/12 10:30 EDT'),
 			'title': 'Keynote Speech II: Arlene Sharpe, Chair of the Department of Immunology at Harvard Medical School',
-			'topic': 'TBD',
+			'topic': 'The Discovery of Immune checkpoints: from Basic Immunology to Cancer Therapy',
 			'tags': [],
 			'rooms': [],
 			'speakers': [speakersObj['Arlene Sharpe']],

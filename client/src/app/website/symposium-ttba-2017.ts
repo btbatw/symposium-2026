@@ -113,7 +113,13 @@ export const ttbaSymposium2017 = {
 			'to': new Date('2026/07/11 13:30 EDT'),
 			'title': 'Lunch with Roundtable',
 			'topic': null,
-			'sessionDescription': '',
+			'sessionDescription': '1. Job hunting and interview\
+									2. Resume Tune-Up Clinic\
+									3. From Uncertainty to Opportunity: The Mindset for Career Transition\
+									4. Build Your First AI Agent Workflow\
+									5. Bridge the Gap: Communication Skills in Academia and Industry\
+									6. CMC\
+									7. Taiwan Academia: Current Landscape and Future Directions',
 			'tags': [],
 			'rooms': [],
 			'speakers': []

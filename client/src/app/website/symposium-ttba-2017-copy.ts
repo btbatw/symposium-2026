@@ -71,7 +71,7 @@ export const ttbaSymposium2017 = {
 			'from': new Date('2026/07/11 09:00 EDT'),
 			'to': new Date('2026/07/11 10:00 EDT'),
 			'title': 'Keynote Speech I: Stephen Cho, SVP of Global Portfolio & Program Management at BeOne Medicines',
-			'topic': "From Scientist to Strategic Leader in Biopharma",
+			'topic': "From Experiments to Enterprise Portfolio Strategy: My Journey to Portfolio Management Leadership",
 			'tags': [],
 			'rooms': [],
 			'speakers': [
@@ -89,7 +89,7 @@ export const ttbaSymposium2017 = {
 			'from': new Date('2026/07/11 10:30 EDT'),
 			'to': new Date('2026/07/11 11:50 EDT'),
 			'title': 'Trending Topic',
-			'topic': 'Spatial Proteomics & AI',
+			'topic': 'Frontiers in Functional Genomics: Bridging discovery and Platform Innovation',
 			'sessionDescription': '',
 			'tags': [],
 			'rooms': [],
@@ -116,7 +116,13 @@ export const ttbaSymposium2017 = {
 			'to': new Date('2026/07/11 13:30 EDT'),
 			'title': 'Lunch with Roundtable',
 			'topic': null,
-			'sessionDescription': '',
+			'sessionDescription': '1. Job hunting and interview\
+									2. Resume Tune-Up Clinic\
+									3. From Uncertainty to Opportunity: The Mindset for Career Transition\
+									4. Build Your First AI Agent Workflow\
+									5. Bridge the Gap: Communication Skills in Academia and Industry\
+									6. CMC\
+									7. Taiwan Academia: Current Landscape and Future Directions',
 			'tags': [],
 			'rooms': [],
 			'speakers': []
@@ -195,7 +201,7 @@ export const ttbaSymposium2017 = {
 		}, {
 			'from': new Date('2026/07/11 18:00 EDT'),
 			'to': new Date('2026/07/11 20:00 EDT'),
-			'title': 'Light Dinner',
+			'title': 'Networking Light Dinner',
 			'sessionDescription': '',
 			'tags': [],
 			'rooms': [],
@@ -213,7 +219,7 @@ export const ttbaSymposium2017 = {
 			'from': new Date('2026/07/12 09:30 EDT'),
 			'to': new Date('2026/07/12 10:30 EDT'),
 			'title': 'Keynote Speech II: Arlene Sharpe, Chair of the Department of Immunology at Harvard Medical School',
-			'topic': 'TBD',
+			'topic': 'The Discovery of Immune checkpoints: from Basic Immunology to Cancer Therapy',
 			'tags': [],
 			'rooms': [],
 			'speakers': [

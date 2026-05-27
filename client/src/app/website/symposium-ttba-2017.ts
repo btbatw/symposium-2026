@@ -70,7 +70,7 @@ export const ttbaSymposium2017 = {
 			'from': new Date('2026/07/11 09:00 EDT'),
 			'to': new Date('2026/07/11 10:00 EDT'),
 			'title': 'Keynote Speech I: Stephen Cho, SVP of Global Portfolio & Program Management at BeOne Medicines',
-			'topic': "From Scientist to Strategic Leader in Biopharma",
+			'topic': "From Experiments to Enterprise Portfolio Strategy: My Journey to Portfolio Management Leadership",
 			'tags': [],
 			'rooms': [],
 			'speakers': [speakersObj['Stephen Cho']],
@@ -86,7 +86,7 @@ export const ttbaSymposium2017 = {
 			'from': new Date('2026/07/11 10:30 EDT'),
 			'to': new Date('2026/07/11 11:50 EDT'),
 			'title': 'Trending Topic',
-			'topic': 'Spatial Proteomics & AI',
+			'topic': 'Spatial Omics and AI in Translational Medicine',
 			'sessionDescription': '',
 			'tags': [],
 			'rooms': [],
@@ -116,7 +116,13 @@ export const ttbaSymposium2017 = {
 			'sessionDescription': `
 			<p>Topics</p>
 			<ul>
-				<li>Scientific communication</li>
+				<li>1. Navigating Job Searches and Interviews</li>
+				<li>2. Resume Tune-Up Clinic</li>
+				<li>3. From Uncertainty to Opportunity: The Mindset for Career Transition</li>
+				<li>4. Build Your First AI Agent Workflow</li>
+				<li>5. Bridge the Gap: Communication Skills in Academia and Industry</li>
+				<li>6. CMC</li>
+				<li>7. Taiwan Academia: Current Landscape and Future Directions</li>
 			</ul>`,
 			'tags': [],
 			'rooms': [],
@@ -152,7 +158,7 @@ export const ttbaSymposium2017 = {
 			'to': new Date('2026/07/11 15:00 EDT'),
 			'numOfParallelSessions': 2,
 			'title': 'Panel 2',
-			'topic': 'Gene Therapy Delivery: LNP, ANP, and Beyond',
+			'topic': 'Decoding Gene Delivery: Comparative Strategies in AAV, LNP, and VLP Technologies',
 			'tags': [],
 			'rooms': [],
 			'speakers': [
@@ -197,7 +203,7 @@ export const ttbaSymposium2017 = {
 		}, {
 			'from': new Date('2026/07/11 18:00 EDT'),
 			'to': new Date('2026/07/11 20:00 EDT'),
-			'title': 'Light Dinner',
+			'title': 'Networking Light Dinner',
 			'sessionDescription': '',
 			'tags': [],
 			'rooms': [],
@@ -231,7 +237,7 @@ export const ttbaSymposium2017 = {
 			'from': new Date('2026/07/12 11:00 EDT'),
 			'to': new Date('2026/07/12 12:00 EDT'),
 			'title': 'Panel 3',
-			'topic': 'Beyond Small Molecules: The Rise of Novel Therapeutic Modalities',
+			'topic': 'Novel Drug Modalities: The Convergence of RNA Interference, Protein Degradation, and Genome Editing',
 			'numOfParallelSessions': 2,
 			'sessionDescription': ``,
 			'tags': [],
@@ -245,7 +251,7 @@ export const ttbaSymposium2017 = {
 			'from': new Date('2026/07/12 11:00 EDT'),
 			'to': new Date('2026/07/12 12:00 EDT'),
 			'title': 'Panel 4',
-			'topic': "Synthetic Biology and Biotechnology Beyond Medicine",
+			'topic': "Beyond the Clinic: Biotechnology for the Planet",
 			'numOfParallelSessions': 2,
 			'sessionDescription': ``,
 			'tags': [],

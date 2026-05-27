@@ -113,7 +113,11 @@ export const ttbaSymposium2017 = {
 			'to': new Date('2026/07/11 13:30 EDT'),
 			'title': 'Lunch with Roundtable',
 			'topic': null,
-			'sessionDescription': '',
+			'sessionDescription': `
+			<p>Topics</p>
+			<ul>
+				<li>Scientific communication</li>
+			</ul>`,
 			'tags': [],
 			'rooms': [],
 			'speakers': []

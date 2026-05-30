@@ -145,7 +145,6 @@ export const ttbaSymposium2017 = {
 			'tags': [],
 			'rooms': [],
 			'speakers': [
-				speakersObj['Timothy Yu'],
 				speakersObj['Courtney Shearer'],
 				speakersObj['Kristina Capiak'],
 			],
@@ -164,6 +163,7 @@ export const ttbaSymposium2017 = {
 			'speakers': [
 				speakersObj['Jin Qiu'],
 				speakersObj['Jilong Li'],
+				speakersObj['Mattijs Bulcaen'],
 			],
 			'moderators': [
 				{'name': '', 'link': ''},
@@ -245,6 +245,7 @@ export const ttbaSymposium2017 = {
 			'speakers': [
 				speakersObj['David Bryson'],
 				speakersObj['Ho-Chou Tu'],
+				speakersObj['Mikolaj Slabicki'],
 			],
 			'moderators': [{'name': '', 'link': ''}]
 		}, {
@@ -256,7 +257,11 @@ export const ttbaSymposium2017 = {
 			'sessionDescription': ``,
 			'tags': [],
 			'rooms': [],
-			'speakers': [],
+			'speakers': [
+				speakersObj['Daniel Goodwin'],
+				speakersObj['James Kremer'],
+				speakersObj['Zijay Tang'],
+			],
 			'moderators': [{'name': '', 'link': ''}]
 		}, {
 			'from': new Date('2026/07/12 12:10 EDT'),
@@ -266,7 +271,10 @@ export const ttbaSymposium2017 = {
 			'sessionDescription': '',
 			'tags': [],
 			'rooms': [],
-			'speakers': []
+			'speakers': [
+				speakersObj['Yi-En Liao'],
+				speakersObj['Chih-Hsiang Yang'],
+			]
 		}]
 	},
 	'submission': {

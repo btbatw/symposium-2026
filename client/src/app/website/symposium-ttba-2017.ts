@@ -74,7 +74,10 @@ export const ttbaSymposium2017 = {
 			'tags': [],
 			'rooms': [],
 			'speakers': [speakersObj['Stephen Cho']],
-			'moderators': [{'name': 'Jami Kuo', 'link': 'https://www.linkedin.com/in/jamikuo/'}]
+			'moderators': [
+				{'name': 'Jami Kuo', 'link': 'https://www.linkedin.com/in/jamikuo/'},
+				{'name': 'Yi-Chien Wu', 'link': 'https://www.linkedin.com/in/yi-chien-wu-737739170/'}
+			]
 		}, {
 			'from': new Date('2026/07/11 10:00 EDT'),
 			'to': new Date('2026/07/11 10:30 EDT'),
@@ -149,7 +152,7 @@ export const ttbaSymposium2017 = {
 				speakersObj['Kristina Capiak'],
 			],
 			'moderators': [
-				{'name': '', 'link': ''},
+				{'name': 'Ting-Wei Liao', 'link': 'https://www.linkedin.com/in/liao-ting-wei/'},
 				{'name': '', 'link':''}
 			]
 		}, {
@@ -166,8 +169,8 @@ export const ttbaSymposium2017 = {
 				speakersObj['Mattijs Bulcaen'],
 			],
 			'moderators': [
-				{'name': '', 'link': ''},
-				{'name': '', 'link': ''}
+				{'name': 'Hsin-Fang (Daisy) Wu', 'link': ''},
+				{'name': 'Phoebe Tsai', 'link': ''}
 			]
 		}, {
 			'from': new Date('2026/07/11 15:00 EDT'),
@@ -190,6 +193,10 @@ export const ttbaSymposium2017 = {
 				speakersObj['Richard Liang'],
 				speakersObj['Yi-Han Sheu'],
 				speakersObj['Jun Deng'],
+			],
+			'moderators': [
+				{'name': 'Ju-Chun (Ivy) Huang', 'link': ''},
+				{'name': 'Sin-Han (Henry) Chen', 'link': ''}
 			]
 		}, {
 			'from': new Date('2026/07/11 17:00 EDT'),

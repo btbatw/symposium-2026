@@ -124,7 +124,7 @@ export const ttbaSymposium2017 = {
 				<li>3. From Uncertainty to Opportunity: The Mindset for Career Transition</li>
 				<li>4. Build Your First AI Agent Workflow</li>
 				<li>5. Bridge the Gap: Communication Skills in Academia and Industry</li>
-				<li>6. CMC</li>
+				<li>6. Chemistry, Manufacturing & Controls (CMC): Career Paths and Industry Insights</li>
 				<li>7. Taiwan Academia: Current Landscape and Future Directions</li>
 			</ul>`,
 			'tags': [],
@@ -152,8 +152,7 @@ export const ttbaSymposium2017 = {
 				speakersObj['Kristina Capiak'],
 			],
 			'moderators': [
-				{'name': 'Ting-Wei Liao', 'link': 'https://www.linkedin.com/in/liao-ting-wei/'},
-				{'name': '', 'link':''}
+				{'name': 'Ting-Wei Liao', 'link': 'https://www.linkedin.com/in/liao-ting-wei/'}
 			]
 		}, {
 			'from': new Date('2026/07/11 14:00 EDT'),
@@ -169,8 +168,8 @@ export const ttbaSymposium2017 = {
 				speakersObj['Mattijs Bulcaen'],
 			],
 			'moderators': [
-				{'name': 'Hsin-Fang (Daisy) Wu', 'link': ''},
-				{'name': 'Phoebe Tsai', 'link': ''}
+				{'name': 'Hsin-Fang (Daisy) Wu', 'link': 'https://www.linkedin.com/in/hsinfang-daisy-wu/'},
+				{'name': 'Phoebe Tsai', 'link': 'https://www.linkedin.com/in/hanting-phoebe-tsai-298a443b/'}
 			]
 		}, {
 			'from': new Date('2026/07/11 15:00 EDT'),
@@ -185,7 +184,7 @@ export const ttbaSymposium2017 = {
 			'from': new Date('2026/07/11 15:30 EDT'),
 			'to': new Date('2026/07/11 17:00 EDT'),
 			'title': 'Trending Topic',
-			'topic': 'Al in healthcare: Opportunities and Regulatory Considerations',
+			'topic': 'From Code to Clinic: Using AI to Improve Patient Outcomes',
 			'sessionDescription': '',
 			'tags': [],
 			'rooms': [],
@@ -195,8 +194,8 @@ export const ttbaSymposium2017 = {
 				speakersObj['Jun Deng'],
 			],
 			'moderators': [
-				{'name': 'Ju-Chun (Ivy) Huang', 'link': ''},
-				{'name': 'Sin-Han (Henry) Chen', 'link': ''}
+				{'name': 'Ju-Chun (Ivy) Huang', 'link': 'https://www.linkedin.com/in/ju-chun-huang/'},
+				{'name': 'Sin-Han (Henry) Chen', 'link': 'https://www.linkedin.com/in/sin-han-chen/'}
 			]
 		}, {
 			'from': new Date('2026/07/11 17:00 EDT'),

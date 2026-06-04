@@ -76,7 +76,6 @@ export const ttbaSymposium2017 = {
 			'speakers': [speakersObj['Stephen Cho']],
 			'moderators': [
 				{'name': 'Jami Kuo', 'link': 'https://www.linkedin.com/in/jamikuo/'},
-				{'name': 'Yi-Chien Wu', 'link': 'https://www.linkedin.com/in/yi-chien-wu-737739170/'}
 			]
 		}, {
 			'from': new Date('2026/07/11 10:00 EDT'),
@@ -99,8 +98,8 @@ export const ttbaSymposium2017 = {
 				speakersObj['Jiang He'],
 			],
 			'moderators': [
-				{'name': '', 'link': ''},
-				{'name': '', 'link': ''}
+				{'name': 'Jami Kuo', 'link': 'https://www.linkedin.com/in/jamikuo/'},
+				{'name': 'Yi-Chien Wu', 'link': 'https://www.linkedin.com/in/yi-chien-wu-737739170/'}
 			],
 		}, {
 			'from': new Date('2026/07/11 11:50 EDT'),
@@ -129,7 +128,24 @@ export const ttbaSymposium2017 = {
 			</ul>`,
 			'tags': [],
 			'rooms': [],
-			'speakers': []
+			'speakers': [
+				speakersObj['Duane Jiang'],
+				speakersObj['Markus Tsao'],
+				speakersObj['Chun-Pyn Shen'],
+				speakersObj['Chih-Chao Yang'],
+				speakersObj['Rose Lee'],
+				speakersObj['Richard Liang'],
+				speakersObj['Yu-Huan Shih'],
+				speakersObj['Chia-Ching Chou'],
+				speakersObj['Pei-Jung Wu'],
+				speakersObj['Job Searches and Interviews speaker 2'],
+				speakersObj['Blake Lash'],
+				speakersObj['Mong-Hsun Tsai'],
+				speakersObj['Yi-Ching Lee'],
+				speakersObj['Hsing-Yi Cho'],
+				speakersObj['CMC speaker 1'],
+				speakersObj['CMC speaker 2'],
+			]
 		}, {
 			'from': new Date('2026/07/11 13:30 EDT'),
 			'to': new Date('2026/07/11 14:00 EDT'),

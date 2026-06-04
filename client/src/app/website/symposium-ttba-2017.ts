@@ -135,7 +135,7 @@ export const ttbaSymposium2017 = {
 				speakersObj['Hsing-Yi Cho'],
 				speakersObj['CMC speaker 1'],
 				speakersObj['CMC speaker 2'],
-			]
+			],
 		}, {
 			'from': new Date('2026/07/11 13:30 EDT'),
 			'to': new Date('2026/07/11 14:00 EDT'),

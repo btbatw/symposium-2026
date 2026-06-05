@@ -119,6 +119,11 @@ export const ttbaSymposium2017 = {
 			'tags': [],
 			'rooms': [],
 			'speakers': [
+				speakersObj['Jia-Ren (Jerry) Lin'],
+				speakersObj['Hong-Ren Wang'],
+				speakersObj['Lewis Lau'],
+				speakersObj['Carolyn Hsu'],
+				speakersObj['Ying-Ja Chen'],
 				speakersObj['Duane Jiang'],
 				speakersObj['Markus Tsao'],
 				speakersObj['Chun-Pyn Shen'],

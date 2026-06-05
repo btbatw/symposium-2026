@@ -114,23 +114,13 @@ export const ttbaSymposium2017 = {
 			'from': new Date('2026/07/11 12:00 EDT'),
 			'to': new Date('2026/07/11 13:30 EDT'),
 			'title': 'Lunch with Roundtable',
-			'topic':`
-			<p>Topics</p>
-			<ul>
-				<li>1. Navigating Job Searches and Interviews</li>
-				<li>2. Resume Tune-Up Clinic'</li>
-				<li>3. From Uncertainty to Opportunity: The Mindset for Career Transition'</li>,
-				<li>4. Build Your First AI Agent Workflow'</li>
-				<li>5. Bridge the Gap: Communication Skills in Academia and Industry</li>
-				<li>6. Chemistry, Manufacturing & Controls (CMC): Career Paths and Industry Insights</li>
-				<li>7. Taiwan Academia: Current Landscape and Future Directions</li>
-			</ul>`,
+			'topic':'1. Navigating Job Searches and Interviews</p><p>2. Resume Tune-Up Clinic, 3. From Uncertainty to Opportunity: The Mindset for Career Transition, 4. Build Your First AI Agent Workflow, 5. Bridge the Gap: Communication Skills in Academia and Industry, 6. Chemistry, Manufacturing & Controls (CMC): Career Paths and Industry Insights, 7. Taiwan Academia: Current Landscape and Future Directions</p>"',
 			'sessionDescription': '',
 			'tags': [],
 			'rooms': [],
 			'speakers': [
 				speakersObj['Jia-Ren (Jerry) Lin'],
-				speakersObj['Duane Jiang'],
+				speakersObj['Duane Juang'],
 				speakersObj['Markus Tsao'],
 				speakersObj['Chun-Pyn Shen'],
 				speakersObj['Chih-Chao Yang'],

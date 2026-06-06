@@ -114,7 +114,7 @@ export const ttbaSymposium2017 = {
 			'from': new Date('2026/07/11 12:00 EDT'),
 			'to': new Date('2026/07/11 13:30 EDT'),
 			'title': 'Lunch with Roundtable',
-			'topic':"1. Navigating Job Searches and Interviews, 2. Resume Tune-Up Clinic, 3. From Uncertainty to Opportunity: The Mindset for Career Transition, 4. Build Your First AI Agent Workflow, 5. Bridge the Gap: Communication Skills in Academia and Industry, 6. Chemistry, Manufacturing & Controls (CMC): Career Paths and Industry Insights, 7. Taiwan Academia: Current Landscape and Future Directions",
+			'topic':"1. Navigating Job Searches and Interviews<br>, 2. Resume Tune-Up Clinic\n, 3. From Uncertainty to Opportunity: The Mindset for Career Transition, 4. Build Your First AI Agent Workflow, 5. Bridge the Gap: Communication Skills in Academia and Industry, 6. Chemistry, Manufacturing & Controls (CMC): Career Paths and Industry Insights, 7. Taiwan Academia: Current Landscape and Future Directions",
 			'sessionDescription': '',
 			'tags': [],
 			'rooms': [],

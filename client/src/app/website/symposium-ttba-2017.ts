@@ -114,12 +114,11 @@ export const ttbaSymposium2017 = {
 			'from': new Date('2026/07/11 12:00 EDT'),
 			'to': new Date('2026/07/11 13:30 EDT'),
 			'title': 'Lunch with Roundtable',
-			'topic':'1. Navigating Job Searches and Interviews</p><p>2. Resume Tune-Up Clinic, 3. From Uncertainty to Opportunity: The Mindset for Career Transition, 4. Build Your First AI Agent Workflow, 5. Bridge the Gap: Communication Skills in Academia and Industry, 6. Chemistry, Manufacturing & Controls (CMC): Career Paths and Industry Insights, 7. Taiwan Academia: Current Landscape and Future Directions</p>"',
+			'topic':'<p>1. Navigating Job Searches and Interviews</p><p>2. Resume Tune-Up Clinic, 3. From Uncertainty to Opportunity: The Mindset for Career Transition, 4. Build Your First AI Agent Workflow, 5. Bridge the Gap: Communication Skills in Academia and Industry, 6. Chemistry, Manufacturing & Controls (CMC): Career Paths and Industry Insights, 7. Taiwan Academia: Current Landscape and Future Directions</p>"',
 			'sessionDescription': '',
 			'tags': [],
 			'rooms': [],
 			'speakers': [
-				speakersObj['Jia-Ren (Jerry) Lin'],
 				speakersObj['Duane Juang'],
 				speakersObj['Markus Tsao'],
 				speakersObj['Chun-Pyn Shen'],
@@ -129,7 +128,7 @@ export const ttbaSymposium2017 = {
 				speakersObj['Yu-Huan Shih'],
 				speakersObj['Chia-Ching Chou'],
 				speakersObj['Pei-Jung Wu'],
-				speakersObj['Job Searches and Interviews speaker 2'],
+				speakersObj['Job speaker 2'],
 				speakersObj['Blake Lash'],
 				speakersObj['Mong-Hsun Tsai'],
 				speakersObj['Yi-Ching Lee'],
@@ -145,7 +144,11 @@ export const ttbaSymposium2017 = {
 			'sessionDescription': '',
 			'tags': [],
 			'rooms': [],
-			'speakers': []
+			'speakers': [
+				speakersObj['Oral 1'],
+				speakersObj['Oral 2'],
+				speakersObj['Oral 3']
+			]
 		}, {
 			'from': new Date('2026/07/11 14:00 EDT'),
 			'to': new Date('2026/07/11 15:00 EDT'),
@@ -157,6 +160,7 @@ export const ttbaSymposium2017 = {
 			'speakers': [
 				speakersObj['Courtney Shearer'],
 				speakersObj['Kristina Capiak'],
+				speakersObj['Ethen Cheng']
 			],
 			'moderators': [
 				{'name': 'Ting-Wei Liao', 'link': 'https://www.linkedin.com/in/liao-ting-wei/'}
@@ -260,7 +264,10 @@ export const ttbaSymposium2017 = {
 				speakersObj['Ho-Chou Tu'],
 				speakersObj['Mikolaj Slabicki'],
 			],
-			'moderators': [{'name': '', 'link': ''}]
+			'moderators': [
+				{'name': 'I-Te Chu', 'link': 'https://www.linkedin.com/in/i-te-chu-b79771185/'},
+				{'name': 'Lo-I (Vicky) Cheng', 'link': 'https://www.linkedin.com/in/lo-i-cheng-551256117/'}
+			]
 		}, {
 			'from': new Date('2026/07/12 11:00 EDT'),
 			'to': new Date('2026/07/12 12:00 EDT'),

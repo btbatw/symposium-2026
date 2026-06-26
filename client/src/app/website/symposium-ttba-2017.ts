@@ -42,8 +42,8 @@ export const ttbaSymposium2017 = {
 			'description': '<p>BTBA is a 501(c)(3) non-profit organization started in 2012 by a group of Taiwanese graduate Students, postdocs and young professionals in the greater Boston area. Our goals are to foster individual career development, to enhance scientific collaborations, to facilitate interactions and to strengthen networking among academic and industrial bioscience communities in Taiwan and the US. We hold annual symposiums as well as seminars and workshops throughout the year. We hope to serve as a platform to foster a community for young scientists to share their research, exchange ideas and explore career opportunities. <a href="https://btbatw.org/committee.html">Our organizing committee.</a></p>'
 		}]
 	},
-	'program': {
-		'title': 'Program',
+	'programme': {
+		'title': 'Programme',
 		'showPageLink': true,
 		'schedules': [{
 			'from': new Date('2026/07/11 08:00 EDT'),

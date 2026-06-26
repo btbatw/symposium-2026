@@ -160,13 +160,14 @@ export const ttbaSymposium2017 = {
 			'to': new Date('2026/07/11 15:00 EDT'),
 			'numOfParallelSessions': 2,
 			'title': 'Panel 1',
-			'topic': 'Translating Rare Disease Genomics into Precision Therapies',
+			'topic': 'Rare Disease for All: The New Era of Personalized Genetic Medicine',
 			'tags': [],
 			'rooms': [],
 			'speakers': [
 				speakersObj['Courtney Shearer'],
 				speakersObj['Kristina Capiak'],
-				speakersObj['Ethen Cheng']
+				speakersObj['Ethen Cheng'],
+				speakersObj['Wei Chou Tseng']
 			],
 			'moderators': [
 				{'name': 'Ting-Wei Liao', 'link': 'https://www.linkedin.com/in/liao-ting-wei/'}
@@ -176,7 +177,7 @@ export const ttbaSymposium2017 = {
 			'to': new Date('2026/07/11 15:00 EDT'),
 			'numOfParallelSessions': 2,
 			'title': 'Panel 2',
-			'topic': 'Decoding Gene Delivery: Comparative Strategies in AAV, LNP, and VLP Technologies',
+			'topic': 'T cell costimulation: From discovery to Cancer Immunotherapy, my Scientific Journey',
 			'tags': [],
 			'rooms': [],
 			'speakers': [
@@ -288,7 +289,10 @@ export const ttbaSymposium2017 = {
 				speakersObj['James Kremer'],
 				speakersObj['Zijay Tang'],
 			],
-			'moderators': [{'name': '', 'link': ''}]
+			'moderators': [
+				{'name': 'Chun-Chen Yao', 'link': 'https://www.linkedin.com/in/chun-chen-yao-028944123/'},
+				{'name': 'Charlene Wang', 'link': 'https://www.linkedin.com/in/charlene-wang/'}
+			]
 		}, {
 			'from': new Date('2026/07/12 12:10 EDT'),
 			'to': new Date('2026/07/12 12:30 EDT'),

@@ -170,7 +170,8 @@ export const ttbaSymposium2017 = {
 				speakersObj['Wei Chou Tseng']
 			],
 			'moderators': [
-				{'name': 'Ting-Wei Liao', 'link': 'https://www.linkedin.com/in/liao-ting-wei/'}
+				{'name': 'Ting-Wei Liao', 'link': 'https://www.linkedin.com/in/liao-ting-wei/'},
+				{'name': 'Sophia Shiao', 'link': 'https://www.linkedin.com/in/yuchieh-sophia-shiao/'}
 			]
 		}, {
 			'from': new Date('2026/07/11 14:00 EDT'),

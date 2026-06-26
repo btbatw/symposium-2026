@@ -372,130 +372,17 @@ export const ttbaSymposium2017 = {
 			},
 			{
 				'level': 'string',
-				'name': 'Ministry of Education 教育部',
-				'logoUrl': 'Ministry_of_Education.png',
-				'link': 'https://english.moe.gov.tw/'
-			},
-			{
-				'level': 'string',
 				'name': 'TECO Boston',
 				'logoUrl': 'teco.png',
 				'link': 'https://www.roc-taiwan.org/usbos_en/'
 			},
 			{
 				'level': 'string',
-				'name': '僑委會',
-				'logoUrl': 'OCAC.png',
-				'link': 'https://www.ocac.gov.tw/OCAC/SubSites/Home.aspx?site=7a4eb84a-7632-4679-ac66-35970250e9c9'
+				'name': 'Ministry of Education 教育部',
+				'logoUrl': 'Ministry_of_Education.png',
+				'link': 'https://english.moe.gov.tw/'
 			},
-			{
-				'level': 'string',
-				'name': 'PharmaEssentia',
-				'logoUrl': 'PharmaEssentia.png',
-				'link': 'https://us.pharmaessentia.com/'
-			},
-			{
-				'level': '',
-				'name': 'METiS Therapeutics',
-				'logoUrl': 'metis.png',
-				'link': 'https://www.metistx.com/'
-			},
-			{
-				'level': 'string',
-				'name': 'string',
-				'logoUrl': 'MJNE.png',
-				'link': 'http://www.mj-ne.org/'
-			},
-			{
-				'level': '',
-				'name': 'WW Holding',
-				'logoUrl': 'ww-holding_v2.png',
-				'link': 'https://www.ww-holding.com.tw/en/'
-			},
-			{
-				'level': 'string',
-				'name': 'Vizuro',
-				'logoUrl': 'vizuro.png',
-				'link': 'https://www.vizuro.com/'
-			},
-			{
-				'level': 'string',
-				'name': 'Wegreened',
-				'logoUrl': 'North America Immigration Law Group.png',
-				'link': 'https://www.wegreened.com/'
-			},
-			{
-				'level': 'string',
-				'name': 'BioLegend',
-				'logoUrl': 'biolegend.png',
-				'link': 'https://www.biolegend.com'
-			},
-			{
-				'level': 'string',
-				'name': 'Development Center of Biotechnology',
-				'logoUrl': 'dcb.png',
-				'link': 'https://www.dcb.org.tw/pages/1?locale=en'
-			},
-			{
-				'level': 'string',
-				'name': '3G Leadership Solutions',
-				'logoUrl': '3g-leadership-solutions.png',
-				'link': 'https://www.linkedin.com/in/chia-lin-ho/'
-			},
-			{
-				'level': 'string',
-				'name': 'Home Boston Group',
-				'logoUrl': 'home-boston-group.png',
-				'link': 'https://homeboston-spassetinvest.mystrikingly.com'
-			},
-			{
-				'level': 'string',
-				'name': 'string',
-				'logoUrl': 'sheen-lab.png',
-				'link': 'https://molbio.mgh.harvard.edu/sheenweb/main_page.html'
-			},
-			{
-				'level': 'string',
-				'name': 'Prometrika',
-				'logoUrl': 'prometrika.png',
-				'link': 'https://www.prometrika.com/'
-			},
-			{
-				'level': 'string',
-				'name': 'string',
-				'logoUrl': 'BTCC.png',
-				'link': 'https://www.facebook.com/bostonbtcc'
-			},
-			{
-				'level': 'string',
-				'name': 'LPY Law Group',
-				'logoUrl': 'LPY_Law_Group.png',
-				'link': 'https://www.niwus.com/'
-			},
-			{
-				'level': 'string',
-				'name': 'Taiwan Bio Therapeutics Inc.',
-				'logoUrl': 'TAIWAN_BIO.png',
-				'link': 'https://twbio-thera.com/en'
-			},
-			{
-				'level': 'string',
-				'name': 'Syneos Health',
-				'logoUrl': 'Syneos Health Logo_Conference.jpg',
-				'link': 'https://www.syneoshealth.com/'
-			},
-			{
-				'level': 'string',
-				'name': 'InFocus Therapeutics',
-				'logoUrl': 'InFocus_Original on transparent.png',
-				'link': 'https://infocustx.com/'
-			},
-			{
-				'level': 'string',
-				'name': 'Metals Industry Research and Development Center',
-				'logoUrl': 'MIRDC.jpg',
-				'link': 'https://www.mirdc.org.tw/english/'
-			},
+			
 		]
 	},
 	'imgs': [{

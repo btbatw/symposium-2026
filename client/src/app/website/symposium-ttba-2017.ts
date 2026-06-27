@@ -378,9 +378,51 @@ export const ttbaSymposium2017 = {
 			},
 			{
 				'level': 'string',
-				'name': 'Ministry of Education 教育部',
-				'logoUrl': 'Ministry_of_Education.png',
-				'link': 'https://english.moe.gov.tw/'
+				'name': 'Sheen Lab',
+				'logoUrl': 'sheen-lab.png',
+				'link': 'https://molbio.mgh.harvard.edu/sheenweb/main_page.html'
+			},
+			{
+				'level': 'string',
+				'name': 'PharmaEssentia',
+				'logoUrl': '2026_PharmaEssentia Logo.png',
+				'link': 'https://us.pharmaessentia.com/'
+			},
+			{
+				'level': 'string',
+				'name': 'BioLegend from Revvity',
+				'logoUrl': '2026_BioLegend_fromRevvity.jpg',
+				'link': 'https://www.biolegend.com/en-us/about-us'
+			},
+			{
+				'level': 'string',
+				'name': 'BTCC',
+				'logoUrl': '2026_BTCC.jpg',
+				'link': 'https://bostonbtcc.org/'
+			},
+			{
+				'level': 'string',
+				'name': 'InFocus Therapeutics',
+				'logoUrl': '2026_InFocus Therapeutics.png',
+				'link': 'https://www.infocustx.com/'
+			},
+			{
+				'level': 'string',
+				'name': 'MJNE',
+				'logoUrl': '2026_MJNE.png',
+				'link': 'https://www.mj-ne.org/?page_id=2'
+			},
+			{
+				'level': 'string',
+				'name': 'Wellesley Toyota',
+				'logoUrl': '2026_Wellesley Toyota.jpg',
+				'link': 'https://www.wellesleytoyota.com/'
+			},
+			{
+				'level': 'string',
+				'name': '僑委會',
+				'logoUrl': '2026_OCAC.png',
+				'link': 'https://www.ocac.gov.tw/OCAC/Eng/'
 			},
 			
 		]

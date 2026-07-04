@@ -15,7 +15,7 @@ export const ttbaSymposium2017 = {
 		'title': '',
 		'showPageLink': false,
 		'registrationLink': 'https://buytickets.at/btba/2137594',
-		'programbookLink': ''
+		'programbookLink': 'https://canva.link/fd9gxtrk86qgoun'
 	},
 	'host': {
 		'name': 'Boston Taiwanese Biotechnology Association',

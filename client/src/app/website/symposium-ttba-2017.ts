@@ -427,7 +427,7 @@ export const ttbaSymposium2017 = {
 			{
 				'level': 'string',
 				'name': 'Ranch 99',
-				'logoUrl': '2026_99_Ranch_Marke_LOGO.png',
+				'logoUrl': '2026_99_Ranch_Marke_LOGO.jpg',
 				'link': 'https://www.99ranch.com/'
 			},
 			{

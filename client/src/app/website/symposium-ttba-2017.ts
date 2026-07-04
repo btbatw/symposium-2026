@@ -409,13 +409,13 @@ export const ttbaSymposium2017 = {
 			{
 				'level': 'string',
 				'name': 'green maple law group',
-				'logoUrl': '2026_GMLG LOGO.png',
+				'logoUrl': '2026_GMLG_LOGO.png',
 				'link': 'https://www.greenmaplelaw.com/'
 			},
 			{
 				'level': 'string',
 				'name': 'Development Center for Biotechnology',
-				'logoUrl': '2026_dcb logo [Converted].png',
+				'logoUrl': '2026_dcb_logo.png',
 				'link': 'https://www.dcb.org.tw/pages/1?locale=en'
 			},
 			{
@@ -427,7 +427,7 @@ export const ttbaSymposium2017 = {
 			{
 				'level': 'string',
 				'name': 'Ranch 99',
-				'logoUrl': '2026_99 Ranch Marke- LOGO.png',
+				'logoUrl': '2026_99_Ranch_Marke_LOGO.png',
 				'link': 'https://www.99ranch.com/'
 			},
 			{

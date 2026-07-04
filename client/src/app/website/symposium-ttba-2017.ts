@@ -438,6 +438,12 @@ export const ttbaSymposium2017 = {
 			},
 			{
 				'level': 'string',
+				'name': 'ROC_Ministry_of_Education',
+				'logoUrl': '2026_ROC_Ministry_of_Education_Seal.png',
+				'link': 'https://english.moe.gov.tw/mp-1.html'
+			},
+			{
+				'level': 'string',
 				'name': '僑委會',
 				'logoUrl': '2026_OCAC.png',
 				'link': 'https://www.ocac.gov.tw/OCAC/Eng/'

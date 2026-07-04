@@ -402,15 +402,33 @@ export const ttbaSymposium2017 = {
 			},
 			{
 				'level': 'string',
-				'name': 'InFocus Therapeutics',
-				'logoUrl': '2026_InFocus Therapeutics.png',
-				'link': 'https://www.infocustx.com/'
-			},
-			{
-				'level': 'string',
 				'name': 'MJNE',
 				'logoUrl': '2026_MJNE.png',
 				'link': 'https://www.mj-ne.org/?page_id=2'
+			},
+			{
+				'level': 'string',
+				'name': 'green maple law group',
+				'logoUrl': '2026_GMLG LOGO.png',
+				'link': 'https://www.greenmaplelaw.com/'
+			},
+			{
+				'level': 'string',
+				'name': 'Development Center for Biotechnology',
+				'logoUrl': '2026_dcb logo [Converted].png',
+				'link': 'https://www.dcb.org.tw/pages/1?locale=en'
+			},
+			{
+				'level': 'string',
+				'name': 'home Boston group',
+				'logoUrl': '2026_SP Asset Invest LLC logo.png',
+				'link': 'https://www.theagencyre.com/agent/anson-peng'
+			},
+			{
+				'level': 'string',
+				'name': 'Ranch 99',
+				'logoUrl': '2026_99 Ranch Marke- LOGO.png',
+				'link': 'https://www.99ranch.com/'
 			},
 			{
 				'level': 'string',

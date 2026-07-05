@@ -246,7 +246,7 @@ export const ttbaSymposium2017 = {
 			'from': new Date('2026/07/12 09:30 EDT'),
 			'to': new Date('2026/07/12 10:30 EDT'),
 			'title': 'Keynote Speech II: Arlene Sharpe, Chair of the Department of Immunology at Harvard Medical School',
-			'topic': 'T cell costimulation: From discovery to Cancer Immunotherapy, my Scientific Journey',
+			'topic': 'T cell costimulation: From discovery to Cancer Immunotherapy, my Scientific Journey ',
 			'tags': [],
 			'rooms': [],
 			'speakers': [speakersObj['Arlene Sharpe']],

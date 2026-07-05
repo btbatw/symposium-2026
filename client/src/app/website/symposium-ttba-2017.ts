@@ -439,7 +439,7 @@ export const ttbaSymposium2017 = {
 			{
 				'level': 'string',
 				'name': 'Retire woman in the US',
-				'logoUrl': '2026_Retire_womam_in_US.jpg',
+				'logoUrl': '2026_Retire_womam_in_US.png',
 				'link': 'https://www.facebook.com/profile.php?id=61559170197772'
 			},
 			{

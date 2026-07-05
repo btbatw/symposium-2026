@@ -438,6 +438,12 @@ export const ttbaSymposium2017 = {
 			},
 			{
 				'level': 'string',
+				'name': 'Retire woman in the US',
+				'logoUrl': '2026_Retire_womam_in_US.jpg',
+				'link': 'https://www.facebook.com/profile.php?id=61559170197772'
+			},
+			{
+				'level': 'string',
 				'name': 'ROC_Ministry_of_Education',
 				'logoUrl': '2026_ROC_Ministry_of_Education_Seal.png',
 				'link': 'https://english.moe.gov.tw/mp-1.html'

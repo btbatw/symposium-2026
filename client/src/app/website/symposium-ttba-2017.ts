@@ -178,7 +178,7 @@ export const ttbaSymposium2017 = {
 			'to': new Date('2026/07/11 15:00 EDT'),
 			'numOfParallelSessions': 2,
 			'title': 'Panel 2',
-			'topic': 'T cell costimulation: From discovery to Cancer Immunotherapy, my Scientific Journey',
+			'topic': 'Decoding Gene Delivery: Comparative Strategies in AAV, LNP, and VLP Technologies',
 			'tags': [],
 			'rooms': [],
 			'speakers': [
@@ -246,7 +246,7 @@ export const ttbaSymposium2017 = {
 			'from': new Date('2026/07/12 09:30 EDT'),
 			'to': new Date('2026/07/12 10:30 EDT'),
 			'title': 'Keynote Speech II: Arlene Sharpe, Chair of the Department of Immunology at Harvard Medical School',
-			'topic': 'The Discovery of Immune checkpoints: from Basic Immunology to Cancer Therapy',
+			'topic': 'T cell costimulation: From discovery to Cancer Immunotherapy, my Scientific Journey',
 			'tags': [],
 			'rooms': [],
 			'speakers': [speakersObj['Arlene Sharpe']],

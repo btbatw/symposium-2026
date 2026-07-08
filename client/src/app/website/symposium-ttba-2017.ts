@@ -134,7 +134,7 @@ export const ttbaSymposium2017 = {
 				speakersObj['Yu-Huan Shih'],
 				speakersObj['Chia-Ching Chou'],
 				speakersObj['Pei-Jung Wu'],
-				speakersObj['Elizabeth Wu],
+				speakersObj['Elizabeth Wu'],
 				speakersObj['Blake Lash'],
 				speakersObj['Mong-Hsun Tsai'],
 				speakersObj['Yi-Ching Lee'],

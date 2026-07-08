@@ -246,7 +246,7 @@ export const ttbaSymposium2017 = {
 				speakersObj['Markus Tsao'],
 				speakersObj['Hao-Wei Pang'],
 				speakersObj['Yi-Han Sheu'],
-				speakersObj['Nien-Wen (Frankie) Hu],
+				speakersObj['Nien-Wen (Frankie) Hu'],
 				speakersObj['Jake Lissoos'],
 				speakersObj['Sophia (Yu-Chieh) Shiao'],
 				speakersObj['Rylee Wander'],

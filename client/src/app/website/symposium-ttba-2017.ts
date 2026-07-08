@@ -238,7 +238,6 @@ export const ttbaSymposium2017 = {
 			'title': 'Breakfast and Meeting with Experts',
 			'topic': null,
 			'sessionDescription': ``,
-			'speakers': [],
 			'tags': [],
 			'rooms': [],			
 			'speakers': [

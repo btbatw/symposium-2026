@@ -242,6 +242,8 @@ export const ttbaSymposium2017 = {
 			'tags': [],
 			'rooms': [],			
 			'speakers': [
+				speakersObj['Duane Juang'],
+				speakersObj['Markus Tsao'],
 				speakersObj['Hao-Wei Pang'],
 				speakersObj['Yi-Han Sheu'],
 				speakersObj['Nien-Wen (Frankie) Hu],

@@ -177,7 +177,7 @@ export const ttbaSymposium2017 = {
 			'to': new Date('2026/07/11 15:00 EDT'),
 			'numOfParallelSessions': 2,
 			'title': 'Panel 2',
-			'topic': 'Decoding Gene Delivery: Comparative Strategies in AAV, LNP, and VLP Technologies',
+			'topic': 'Decoding Gene Delivery: Comparative Strategies in AAV, LNP, and VLP Technologies ',
 			'tags': [],
 			'rooms': [],
 			'speakers': [
